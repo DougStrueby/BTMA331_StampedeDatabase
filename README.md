@@ -3,6 +3,8 @@
 ## Overview  
 This project involves visualizing data from a Stampede database using Power BI. The analysis covers various aspects of the Stampede event, including rodeo performances, food consumption, customer demographics, and park admissions.  
 
+## Group Members
+Doug Strueby, Anand Makker, Evalina Merkulov, Karman Rai
 ---
 
 ## Entity Relationship Diagram (ERD)  
